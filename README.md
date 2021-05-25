@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 Hello there 👋,
 I am Aman. Welcome to my github :stars:
 
-:information_desk_person: **About me**
+:person: **About me**
 I am a CSE Undergrad and researcher at LTRC, IIIT Hyderabad :mortar_board: <br>
 I am currently working on various domains related to speech, Deep Learning under Professor Anil Kumar Vuppala. 
 
