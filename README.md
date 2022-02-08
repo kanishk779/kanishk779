@@ -27,9 +27,9 @@ I am currently working on various domains related to speech, Deep Learning under
 :dart: **My skills**
 * Speech Processing
 * Deep Learning
-* Re-inforcement learning
+* Compilers
+* Distributed Systems
 * NLP
-* Artificial Intelligence
 * Android developemnt
 
  I am passionate on building real-life applications for solving problems faced by people worldwide. 
